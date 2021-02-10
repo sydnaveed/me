@@ -3506,8 +3506,8 @@ input[type="button"].btn--primary:focus {
 }
 
 .s-hero__content h2 {
-    font-size: 4rem;
-    font-weight: 500;
+    font-size: 3.5rem;
+    font-weight: 450;
     letter-spacing: -.04em;
     line-height: 1.5;
     color: white;
