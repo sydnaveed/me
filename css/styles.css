@@ -3511,8 +3511,8 @@ input[type="button"].btn--primary:focus {
     letter-spacing: -.04em;
     line-height: 1.5;
     color: white;
-    margin-top: 0;
-    margin-bottom: 0;
+    margin-top: var(--vspace-0_5);
+    margin-bottom: var(--vspace-1);
 }
 
 .s-hero__content h3 {
